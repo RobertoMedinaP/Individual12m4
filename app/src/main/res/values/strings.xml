@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="barra">Mi comida</string>
+    <string name="cafe">Café Otelo</string>
+    <string name="entrar">Entrar</string>
+    <string name="productos">Nuestros productos</string>
+    <string name="capuchino">Capuchino</string>
+    <string name="espreso">Espreso</string>
+    <string name="latte">Latte</string>
+    <string name="ir">Ir al café</string>
+    <string name="back">Volver</string>
+    <string name="Capuchinodes">Exquisito café espresso con leche espumada</string>
+    <string name="lattedes">Exquisito café espresso con crema de leche al vapor</string>
+    <string name="espresodes">Café puro de grano molido en el momento</string>
+    <string name="Volver">Volver</string>
+    <string name="Salir">Salirr</string>
+
+</resources>
